@@ -1,0 +1,13 @@
+package bandtec.com.Projetoindividualsprint3;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ProjetoIndividualSprint3ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
